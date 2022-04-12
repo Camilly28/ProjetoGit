@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landing page - Camilly Duarte</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <header class="cabecalho">
+    <img class="cabecalho-imagem" src="foto/logotipo.jpeg" alt=" logo da landing page camilly">
+    <nav class="cabecalho-menu">
+      <a class="cabecalho-menu-item" href="https://github.com/Camilly28" >GitHub</a>
+    
+      <a class="cabecalho-menu-item2" href="https://www.linkedin.com/in/camilly-duarte/" >Linkedin</a>
+    </nav>
+      <a class="cabecalho-menu-item"> Repositório</a>
+      <a class="cabecalho-menu-item"> Carreira</a>
+      <a class="cabecalho-menu-item"> Projetos</a>
+  </header>
+
+  <main class="conteudo">
+    <selection class="conteudo-principal">
+      <div class="conteudo-principal-escrito">
+          <h1 class="conteudo-principal-escrito-titulo">Camilly Duarte</h1>
+          <h2 class="conteudo-principal-escrito-titulo"> Desenvolvedora Full-stack em processo...</h2>
+          <button class="conteudo-principal-escrito-botao">Contato</button>
+      </div>
+<img class="conteudo-principal-imagem" src="foto/eu.jpeg" alt="foto pessoal">
+    </selection>
+
+    <selection class="conteudo-separado">
+      <h3 class="conteudo-secundario-titulo"> Quem é Camilly?</h3>
+      <p class="conteudo-secundario-paragrafo"> Sou estudante de TI desde 2020 <strong>curso técnico feito no IFF campus campos centro</strong> foi durante o curso que comecei a desenvolver conhecimento e habilidades com a área de TI.</p>
+      <p class="conteudo-secundario-paragrafo">Passei pelo processo de pandemia estudando de modo EAD durante dois anos do curso, porém além do curso busco conhecimento externo.<strong> Participo de projetos, bootcamps, cursos FIC</strong> para alavancar meus conhecimentos.</p>
+      <p class="conteudo-secundario-paragrafo">Além disso, <strong>sou bolsista em um laboratório MAKER no meu IFF</strong>, trabalhamos com impressão 3D, usamos também cortadora laser, tudo com intuito de ajudar a solucionar problemas realizando trabalhos, o lema DIY, faça você mesmo.</p>
+    </selection>
+<br>
+<br>
+
+    <selection class="conteudo-separado">
+      <h3 class="conteudo-secundario-titulo"> Desenvolvimento - Programação - Linguagens</h3>
+      <p class="conteudo-secundario-paragrafo"> Atualmente não me decidi se irei para a parte de back-end ou front-end, <strong>a meta é se tornar uma full-stack</strong>.</p>
+      <p class="conteudo-secundario-paragrafo">Busco estudar linguagens de variados tipos em prol de entender melhor e conhecer seus ninchos <strong> claro que algumas linguagens são mais favoritas rsrs</strong> além de linguagens de programação busco estudar outras partes<br> como banco de dados e outras habilidades soft skills.</p>
+      <p class="conteudo-secundario-paragrafo">Linguagens: 
+      <br><strong>C++</strong> <br> <strong>Java</strong> <br> <strong>HTML</strong><br><strong>CSS</strong>
+      <br><strong>PHP</strong>
+     <br><strong>PYTHON</strong>
+      <br><strong>MYSQL</strong></p>
+    </selection>
+
+  </main>
+
+
+<footer class="rodape">
+  <img class="rodape-imagem" src="foto/slogan.jpeg">
+</footer>
+  
+</body>
+</html>
